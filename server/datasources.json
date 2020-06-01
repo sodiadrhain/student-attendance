@@ -1,0 +1,6 @@
+{
+  "db": {
+    "url": "mongodb+srv://AttendanceDB:ayobami1@attendance-management-sys-m6x8s.mongodb.net/attendance-management-db?retryWrites=true&w=majority",
+    "connector": "mongodb"
+  }
+}
